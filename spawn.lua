@@ -1,7 +1,7 @@
 --------------------- SPAWN ---------------------------
 ----
 mobs:spawn({
-	name = "enemy:tank",
+	name = "rangedweapons:tank",
 	nodes = {
 "default:desert_stone",
 "default:desert_cobble",
@@ -41,7 +41,7 @@ mobs:spawn({
 --------------------- SPAWN ---------------------------
 ----
 mobs:spawn({
-	name = "enemy:gunner",
+	name = "rangedweapons:gunner",
 	nodes = {
 "ethereal:mushroom_dirt",
 "ethereal:bamboo_dirt",
@@ -89,7 +89,7 @@ mobs:spawn({
 --------------------- SPAWN ---------------------------
 ----
 mobs:spawn({
-	name = "enemy:helicopter",
+	name = "rangedweapons:helicopter",
 	nodes = {
 "air",
 "default:cloud"
@@ -110,7 +110,7 @@ mobs:spawn({
 --------------------- SPAWN ---------------------------
 ----
 mobs:spawn({
-	name = "enemy:helicopter2",
+	name = "rangedweapons:helicopter2",
 	nodes = {
 "air",
 "default:cloud"
@@ -132,7 +132,7 @@ mobs:spawn({
 
 ----
 mobs:spawn({
-	name = "enemy:enemy",
+	name = "rangedweapons:rangedweapons",
 	nodes = {
 
 "default:snow",
@@ -186,7 +186,7 @@ neighbors = {
 --------------------- SPAWN ---------------------------
 
 mobs:spawn({
-	name = "enemy:dog",
+	name = "rangedweapons:dog",
     nodes = {
 "ethereal:mushroom_dirt",
 "ethereal:bamboo_dirt",
@@ -232,7 +232,7 @@ neighbors = {
 --------------------- SPAWN ---------------------------
 
 mobs:spawn({
-	name = "enemy:flamer",
+	name = "rangedweapons:flamer",
     nodes = {
 "ethereal:mushroom_dirt",
 "ethereal:bamboo_dirt",
@@ -267,7 +267,7 @@ neighbors = {
 
 
 mobs:spawn({
-	name = "enemy:artic",
+	name = "rangedweapons:artic",
 	nodes = {
 "default:permafrost",
 "default:permafrost_with_stones",
@@ -298,7 +298,7 @@ mobs:spawn({
 --------------------- SPAWN --------------------------
 ----
 ---mobs:spawn({
-	--name = "enemy:tank",
+	--name = "rangedweapons:tank",
 	--nodes = {
 	--	"default:stone", "castle_masonry:pavement_brick",
 	--	"default:sand"
