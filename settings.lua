@@ -1,0 +1,29 @@
+
+rweapons_player_dmg_multiplier = 1.0
+rweapons_mob_dmg_multiplier = 1.0
+rweapons_headshot_dmg_multiplier = 1.75
+rweapons_max_gun_efficiency = 300
+rweapons_min_gun_efficiency = 1
+rweapons_bloodyness = 10
+
+rweapons_gun_crafting = "true"
+rweapons_gun_durability = "true"
+rweapons_shurikens = "true"
+rweapons_handguns = "false"
+rweapons_forceguns = "true"
+rweapons_javelins = "false"
+rweapons_power_weapons = "true"
+rweapons_machine_pistols = "false"
+rweapons_shotguns = "false"
+rweapons_auto_shotguns = "false"
+rweapons_smgs = "false"
+rweapons_rifles = "false"
+rweapons_assault_rifles = "false"
+rweapons_heavy_machineguns = "false"
+rweapons_revolvers = "false"
+rweapons_explosives = "false"
+rweapons_glass_breaking = "false"
+rweapons_door_breaking = "false"
+rweapons_other_weapon_crafting = "false"
+rweapons_ammo_crafting = "false"
+rweapons_item_crafting = "true"
