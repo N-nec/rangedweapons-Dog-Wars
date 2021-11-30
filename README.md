@@ -1,4 +1,4 @@
-# RangedWeapons with Enemies
+# RangedWeapons with Enemies .... Dog Style
 
 Minetest Mob Mod... Fork of RangedWeapons 
 
