@@ -25,7 +25,7 @@ mobs:register_mob("rangedweapons:helicopter", {
 	shoot_offset = 1,
 	attacks_monsters = false,
 	hp_min = 10, hp_max = 200, armor = 100,
-	collisionbox = {-1, 1.5, -1, 1, 1.5, 0.9},
+	collisionbox = {-1.8, 0, -1.8, 1.8, 1.5, 1.8},
 	visual = "mesh",
 	mesh = "apache.b3d",
 	drawtype = "front",
