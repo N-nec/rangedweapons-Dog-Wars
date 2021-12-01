@@ -132,7 +132,7 @@ mobs:spawn({
 
 ----
 mobs:spawn({
-	name = "rangedweapons:rangedweapons",
+	name = "rangedweapons:enemy",
 	nodes = {
 
 "default:snow",
