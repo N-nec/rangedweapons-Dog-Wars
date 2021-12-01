@@ -1,3 +1,9 @@
 default
 mobs
 sethome
+tnt
+doors?
+xpanes?
+vessels?
+moreores?
+3d_armor?
