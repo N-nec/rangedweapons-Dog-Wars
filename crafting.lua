@@ -5,11 +5,10 @@ if rweapons_gun_crafting == "true" then
 
 minetest.register_craft({
         output = "rangedweapons:Stone 30",
-        recipe = {
-                {"", "group:cobble", ""},
-                {"group:cobble", "", "group:cobble"},
-                {"", "group:cobble", ""},
-    }
+     recipe = {
+                {"", "", ""},
+                {"", "default:cobble", ""},
+                {"", "", ""},
 
 })
 
